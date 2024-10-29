@@ -1,0 +1,16 @@
+# Visual Studio / C# / Builds, etc, terraform
+bin/
+obj/
+.vs/
+*.user
+appsettings.Development.json
+.idea
+
+# IntelliJ/Rider - User specific
+.idea/**/workspace.xml
+.idea/**/shelf/
+.idea/**/modules.xml
+.idea/**/projectSettingsUpdater.xml
+.idea/**/contentModel.xml
+.idea/**/dataSources/
+.idea/**/dataSources.local.xml
